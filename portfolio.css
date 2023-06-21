@@ -104,9 +104,9 @@ h4 {
 }
 
 .main {
-	width: 795px;
-	max-width: 95%;
-	margin: 0px 774px;
+	width: 405px;
+	/* max-width: 90%; */
+	margin: 0px 750px;
 	display: flex;
 	align-items: center;
 	justify-content: space-around;
@@ -225,20 +225,6 @@ footer {
 	justify-content: center;
 }
 
-footer p:nth-child(1) {
-	font-size: 30px;
-	color: white;
-	margin-bottom: 10px;
-	font-weight: bold;
-}
-
-footer p:nth-child(2) {
-	color: white;
-	font-size: 18px;
-	width: 500px;
-	text-align: center;
-	line-height: 26px;
-}
 
 button {
 	font-size: 18px;
